@@ -3,10 +3,10 @@
 Context Engineering: Sessions & Memory
 
 - Context Engineering
+![Context Management](context_management.png)
   - master controller / dynamic management **(orchestration)**
   - stateful
   - Challenges: context rot (context grows) → Fight use dynamic history mutation
-  - ![image.png](attachment:5dd419a7-554f-435c-a2c4-efbcbcb7adfb:image.png)
 
 - Sessions (Short term memory management)
   - containers for one whole conversation, holds context fore jusst one continous conversation / need isolation and compaction **(workbench)**
